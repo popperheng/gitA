@@ -3,14 +3,14 @@ package com.suning.zhongtai.barrier.global.constants;
 public class BarrierConstants {
 	
 	
-	public static final int SCM_NO_BARRIER = 0;         //SCM中如果配置了某个流控值是0,则不需要流控
+	public static final int SCM_NO_BARRIER = 0;         //SCM涓鏋滈厤缃簡鏌愪釜娴佹帶鍊兼槸0,鍒欎笉闇�瑕佹祦鎺�
 	
-	public static final String SCM_NODE = "barrier";             //SCM全局流控节点名
+	public static final String SCM_NODE = "barrier";             //SCM鍏ㄥ眬娴佹帶鑺傜偣鍚�
 	
-	public static final int SECOND_PERIOD = 1;     //流控计算周期，默认1s
+	public static final int SECOND_PERIOD = 1;     //娴佹帶璁＄畻鍛ㄦ湡锛岄粯璁�1s
 	
-	public static final String COMMA_SPERATOR = ",";  //参数之间逗号分割符
+	public static final String COMMA_SPERATOR = ",";  //鍙傛暟涔嬮棿閫楀彿鍒嗗壊绗�
 	
-	public static final String SUCCESS_FLAG = "SUCC";  //成功标识
-	public static final String FAIL_FLAG = "FAIL";     //失败标识
+	public static final String SUCCESS_FLAG = "SUCC";  //鎴愬姛鏍囪瘑
+	public static final String FAIL_FLAG = "FAIsdL";     //澶辫触鏍囪瘑
 }
