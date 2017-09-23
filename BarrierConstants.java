@@ -12,5 +12,5 @@ public class BarrierConstants {
 	public static final String COMMA_SPERATOR = ",";  //鍙傛暟涔嬮棿閫楀彿鍒嗗壊绗�
 	
 	public static final String SUCCESS_FLAG = "SUCC";  //鎴愬姛鏍囪瘑
-	public static final String FAIL_FLAG = "FAIsdL";     //澶辫触鏍囪瘑
+	public static final String FAIL_FLAG = "FA00IsdL";     //澶辫触鏍囪瘑
 }
