@@ -1,4 +1,4 @@
-package com.suning.zhongtai.barrier.global.constants;
+package gitA;
 
 public class BarrierConstants {
 	
